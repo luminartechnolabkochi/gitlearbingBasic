@@ -16,3 +16,9 @@ git branch
 
 git remote -v [list all remotes]
 
+git branch branch_name [creating a new branch]
+
+git checkout branch_name
+
+
+
