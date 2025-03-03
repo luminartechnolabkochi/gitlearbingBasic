@@ -22,6 +22,8 @@ git checkout branch_name
 
 git log
 
+git merge branch_name
 
+line1 added by feature branch
 
-
+line2 added by feature branch
