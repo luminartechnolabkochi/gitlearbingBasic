@@ -8,3 +8,7 @@ git remote add name branch_name remote_path
 
 git init [for initializing git repository]
 
+git clone
+
+git push
+
